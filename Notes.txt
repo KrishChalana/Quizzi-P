@@ -1,0 +1,1 @@
+#Forgot to import tailwind in each css file after installing react router

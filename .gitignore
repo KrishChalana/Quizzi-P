@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Build directories
+/dist
+/build
+
+# React
+/.next/
+/out/
+/public/
+/*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# NPM package lock file
+package-lock.json
+yarn.lock
+
+# Environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Webpack
+webpack.config.js
+
+# Test directories
+coverage/
+
+# Ignore specific files or folders for security (e.g., sensitive credentials)
+secrets.json
