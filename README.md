@@ -59,7 +59,7 @@ Ensure you have the following installed:
 5. Open a pull request
 
 
-(AI Generated) 
+(The Readme is AI Generated ,and the project does not support multi file upload , but you can make it support easily it will take 10-15 mins.) 
 
 
 ## License
